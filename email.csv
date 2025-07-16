@@ -1,0 +1,7 @@
+text,label
+"Congratulations! You've won a free iPhone, click now!",phishing
+"Dear customer, your account has been compromised. Verify here.",phishing
+"Important: Update your bank info immediately.",phishing
+"Hello, please find the attached meeting agenda.",safe
+"Your order #4567 has been shipped.",safe
+"Thank you for your purchase. Receipt is attached.",safe
